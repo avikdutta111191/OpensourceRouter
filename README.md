@@ -1,4 +1,3 @@
-# Opensource Router
 # OpenSource Router with Firewall
 
 The **OpenSource Router with Firewall** project is a comprehensive, community-driven solution aimed at transforming standard hardware into a feature-rich, high-performance network routing platform. Leveraging the power of open-source technologies like Linux and FreeBSD, this project empowers users to deploy scalable, secure, and highly customizable routers without the need for expensive proprietary solutions. Whether you're an individual looking to secure your home network or an enterprise seeking a robust solution for complex network environments, this project provides a solid foundation with advanced firewall and networking capabilities. By integrating features such as stateful packet inspection, NAT, VPN, traffic shaping, and real-time intrusion detection, it offers an all-in-one solution that can handle the demands of modern networking.
